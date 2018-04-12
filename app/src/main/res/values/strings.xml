@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Philly Tour Guide</string>
+    <string name="food_string_title">Food</string>
+    <string name="food_string_top">Geno\'s Steaks</string>
+    <string name="food_string_middle">Pat\'s King of Steaks</string>
+    <string name="food_string_bottom">Jim\'s Steaks</string>
+    <string name="history_string_title">History</string>
+    <string name="history_string_top">Liberty Bell</string>
+    <string name="history_string_middle">Independence Hall</string>
+    <string name="history_string_bottom">Memorial Hall</string>
+    <string name="museum_string_title">Museum</string>
+    <string name="museum_string_top">Philadelphia Museum of Art</string>
+    <string name="museum_string_middle">The Franklin Institute</string>
+    <string name="museum_string_bottom">Please Touch Museum</string>
+    <string name="sports_string_title">Sports</string>
+    <string name="sports_string_top">Phillies</string>
+    <string name="sports_string_middle">Eagles</string>
+    <string name="sports_string_bottom">76ers</string>
+
+</resources>

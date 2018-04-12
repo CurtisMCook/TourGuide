@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_vertical_margin">
+
+    <TextView
+        android:id="@+id/museumTitleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/museum_string_title"/>
+
+    <ImageView
+        android:id="@+id/museumImage"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/philaartmuseum"/>
+
+    <TextView
+        android:id="@+id/museumTextViewTop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/museum_string_top"/>
+
+    <TextView
+        android:id="@+id/museumTextViewMiddle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/museum_string_middle"/>
+
+    <TextView
+        android:id="@+id/museumTextViewBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/museum_string_bottom"/>
+
+</LinearLayout>
